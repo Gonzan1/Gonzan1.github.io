@@ -1,6 +1,6 @@
 # Lab 01 - Personal Website
 
-**Author:** Gonzalo  
+**Author:** Gonzalo Salinas
 
 ## 🌐 Live Website
 You can view the published website here: **[https://gonzan1.github.io/](https://gonzan1.github.io/)**
